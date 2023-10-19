@@ -1,7 +1,7 @@
 ### Hello 👋
 
 #### My name is Moreira Lautaro, i'm from Argentina and i'm a Developer 🎯  
-Although my work experience is limited, I have dedicated myself to polish my skills in the development area with the objective of applying it in a real work environment and become a better developer.
+I have dedicated myself to polish my skills in the development area with the objective of applying it in a real work environment and become a better developer.
 
 ### Skills  
 ⭐ My main programming languages/platforms are: **Javascript** and **Node.js**.  
