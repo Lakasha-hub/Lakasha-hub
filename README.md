@@ -1,7 +1,11 @@
 ### Hello 👋
 
 #### My name is Moreira Lautaro, i'm from Argentina and i'm a Developer 🎯  
-I have dedicated myself to polish my skills in the development area with the objective of applying it in a real work environment and become a better developer.
+I present myself as an agile, flexible and resilient person. I have the ability to communicate effectively, adapt to change and work as part of a team. In addition, I stand out for my predisposition and interest in continuous learning.
+
+I found my motivation to develop as a programmer in the IT world by admiring different projects and people with whom I shared much of my life.
+
+That is why I am currently looking for my first job challenge in the area of Systems Development in a company where I can put into practice the knowledge acquired throughout my training with the aim of continuing to develop both professionally and personally.
 
 ### Skills  
 ⭐ My main programming languages/platforms are: **Javascript** and **Node.js**.  
@@ -9,7 +13,7 @@ I have dedicated myself to polish my skills in the development area with the obj
 ⭐ Management of testing tools: **Mocha**.  
 ⭐ Other knowledge: **Git**, **Postman**, **Arduino**, **Python**.  
 ⭐ Critical thinking and problem solving skills.  
-⭐ I'm currently learning: **PHP** and **Java**.  
+⭐ I'm currently learning: **PHP** and **GO**.  
 
 ### Contact
 📧 Email: lautaromoreira722@gmail.com
