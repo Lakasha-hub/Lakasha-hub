@@ -8,10 +8,10 @@ I found my motivation to develop as a programmer in the IT world by admiring dif
 That is why I am currently looking for my first job challenge in the area of Systems Development in a company where I can put into practice the knowledge acquired throughout my training with the aim of continuing to develop both professionally and personally.
 
 ### Skills  
-⭐ My main programming languages/platforms are: **Javascript** and **Node.js**.  
+⭐ My main programming languages/platforms are: **Javascript**, **Node.js**,**Python** and **C#**.  
 ⭐ Knowledge in database technologies such as:  **MySQL** and **MongoDB**.  
 ⭐ Management of testing tools: **Mocha**.  
-⭐ Other knowledge: **Git**, **Postman**, **Arduino**, **Python**.  
+⭐ Other knowledge: **Git**, **Postman**, **Arduino**.  
 ⭐ Critical thinking and problem solving skills.  
 ⭐ I'm currently learning: **PHP** and **GO**.  
 
