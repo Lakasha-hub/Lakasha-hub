@@ -12,8 +12,7 @@ That is why I am currently looking for my first job challenge in the area of Sys
 ⭐ Knowledge in database technologies such as:  **MySQL** and **MongoDB**.  
 ⭐ Management of testing tools: **Mocha**.  
 ⭐ Other knowledge: **Git**, **Postman**, **Arduino**.  
-⭐ Critical thinking and problem solving skills.  
-⭐ I'm currently learning: **PHP** and **GO**.  
+⭐ Critical thinking and problem solving skills.
 
 ### Contact
 📧 Email: lautaromoreira722@gmail.com
