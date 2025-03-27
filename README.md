@@ -1,19 +1,20 @@
-### Hello 👋
+### Holaa 👋
 
-#### My name is Moreira Lautaro, i'm from Argentina and i'm a Developer 🎯  
-I present myself as an agile, flexible and resilient person. I have the ability to communicate effectively, adapt to change and work as part of a team. In addition, I stand out for my predisposition and interest in continuous learning.
+#### Mi nombre es Moreira Lautaro y soy Desarrollador Backend 🎯
 
-I found my motivation to develop as a programmer in the IT world by admiring different projects and people with whom I shared much of my life.
+🚀 Apasionado por construir soluciones técnicas que integran lógica de negocio robusta con arquitecturas limpias y mantenibles. En mis proyectos:
+- Desarrollé un **microservicio en Go** para pagos recurrentes, usando concurrencia y Docker.
+- Implementé **webhooks y notificaciones en tiempo real** para un e-commerce con Node.js.
+- Diseñé código modular, mantenible y escalable bajo principios de **clean architecture**.
+- Integré **autenticación JWT y manejo de errores escalable** para un diseño eficiente de APIs RESTful.
+- Combino mis conocimientos en **electrónica** con desarrollo backend para idear soluciones innovadoras.
 
-That is why I am currently looking for my first job challenge in the area of Systems Development in a company where I can put into practice the knowledge acquired throughout my training with the aim of continuing to develop both professionally and personally.
+Tecnologías clave:
+▸ Backend: Node.js, Go, C#
+▸ Bases de Datos: MySQL, MongoDB
+▸ Herramientas: Docker, Git, Postman
+▸ IoT: Arduino, ESP32
 
-### Skills  
-⭐ My main programming languages/platforms are: **Javascript**, **Node.js**, **Golang** and **C#**.  
-⭐ Knowledge in database technologies such as:  **MySQL** and **MongoDB**.  
-⭐ Management of testing tools: **Mocha**.  
-⭐ Other knowledge: **Git**, **Postman**, **Arduino**.  
-⭐ Critical thinking and problem solving skills.
+🔍 Busco mi primera oportunidad profesional para aplicar mis habilidades en un equipo que valore la calidad del código y la mejora continua. ¡Hablemos de tecnología!
 
-### Contact
-📧 Email: lautaromoreira722@gmail.com
-💻 [Linkedin](https://www.linkedin.com/in/moreira-lautaro/ "Moreira Lautaro's profile") 
+📫 **Cómo contactarme**: [Linkedin](https://www.linkedin.com/in/moreira-lautaro/ "Moreira Lautaro's profile") o envía un correo a lautaromoreira722@gmail.com
