@@ -10,11 +10,11 @@
 - Combino mis conocimientos en **electrónica** con desarrollo backend para idear soluciones innovadoras.
 
 Tecnologías clave:
-▸ Backend: Node.js, Go, C#
-▸ Bases de Datos: MySQL, MongoDB
-▸ Herramientas: Docker, Git, Postman
-▸ IoT: Arduino, ESP32
+- Backend: Node.js, Go, C#
+- Bases de Datos: MySQL, MongoDB
+- Herramientas: Docker, Git, Postman
+- IoT: Arduino, ESP32
 
 🔍 Busco mi primera oportunidad profesional para aplicar mis habilidades en un equipo que valore la calidad del código y la mejora continua. ¡Hablemos de tecnología!
 
-📫 **Cómo contactarme**: [Linkedin](https://www.linkedin.com/in/moreira-lautaro/ "Moreira Lautaro's profile") o envía un correo a lautaromoreira722@gmail.com
+📫 **Cómo contactarme**: Escribeme vía [Linkedin](https://www.linkedin.com/in/moreira-lautaro/ "Moreira Lautaro's profile") o envía un correo a lautaromoreira722@gmail.com
